@@ -1,0 +1,21 @@
+#nav-drawer {
+    background-color: #00b894;
+}
+
+#nav-drawer nav.list-group a.list-group-item {
+    background-color: #d6ffe5;
+}
+
+#nav-drawer .list-group-item.active {
+    color: #000000;
+    background-color: #1177d1;
+    border-color: #ff6e35;
+}
+
+#page-wrapper nav.navbar {
+    background-color: #d6ffe5;
+}
+
+.tresipunt-card {
+    background-color: #00b894;
+}
