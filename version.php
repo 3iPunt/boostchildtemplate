@@ -15,9 +15,9 @@
 // along with Moodle.  If not, see <http://www.gnu.org/licenses/>.
 
 /**
- * NAME.
+ * Tresipunt Boost.
  *
- * @package    theme_PACKAGECODE
+ * @package    theme_boostchild
  * @copyright  2020 Roser Pruaño Milla <roser@tresipunt.com>
  * @license    http://www.gnu.org/copyleft/gpl.html GNU GPL v3 or later
  */
@@ -26,7 +26,7 @@ defined('MOODLE_INTERNAL') || die();
 
 $plugin->version   = 2020011500;
 $plugin->requires  = 2019111200;
-$plugin->component = 'theme_PACKAGECODE';
+$plugin->component = 'theme_boostchild';
 $plugin->dependencies = [
     'theme_boost' => '2019111800'
 ];

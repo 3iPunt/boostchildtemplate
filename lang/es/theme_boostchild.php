@@ -17,7 +17,7 @@
 /**
  * Language file.
  *
- * @package   theme_PACKAGECODE
+ * @package   theme_boostchild
  * @copyright  2020 Roser Pruaño Milla <roser@tresipunt.com>
  * @license    http://www.gnu.org/copyleft/gpl.html GNU GPL v3 or later
  */
@@ -25,8 +25,8 @@
 defined('MOODLE_INTERNAL') || die();
 
 // A description shown in the admin theme selector.
-$string['choosereadme'] = 'El tema NAME és un tema fill plantilla de Boost.';
+$string['choosereadme'] = 'El tema Tresipunt Boost es un tema hijo plantilla de Boost.';
 // The name of our plugin.
-$string['pluginname'] = 'NAME';
+$string['pluginname'] = 'Tresipunt Boost';
 // We need to include a lang string for each block region.
-$string['region-side-pre'] = 'Dreta';
+$string['region-side-pre'] = 'Derecha';

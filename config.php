@@ -21,7 +21,7 @@ defined('MOODLE_INTERNAL') || die();
 
 // The first setting we need is the name of the theme. This should be the last part of the component name, and the same
 // as the directory name for our theme.
-$THEME->name = 'NAME';
+$THEME->name = 'boostchild';
 
 // This setting list the style sheets we want to include in our theme. Because we want to use SCSS instead of CSS - we won't
 // list any style sheets. If we did we would list the name of a file in the /style/ folder for our theme without any css file
@@ -58,4 +58,3 @@ $THEME->requiredblocks = '';
 // This is a feature that tells the blocks library not to use the "Add a block" block. We don't want this in boost based themes because
 // it forces a block region into the page when editing is enabled and it takes up too much room.
 $THEME->addblockposition = BLOCK_ADDBLOCK_POSITION_FLATNAV;
-$THEME->hidefromselector = false;
