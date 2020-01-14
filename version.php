@@ -17,7 +17,7 @@
 /**
  * NAME.
  *
- * @package    theme_SHORTNAME
+ * @package    theme_PACKAGECODE
  * @copyright  2020 Roser Pruaño Milla <roser@tresipunt.com>
  * @license    http://www.gnu.org/copyleft/gpl.html GNU GPL v3 or later
  */
@@ -26,7 +26,7 @@ defined('MOODLE_INTERNAL') || die();
 
 $plugin->version   = 2020011500;
 $plugin->requires  = 2019111200;
-$plugin->component = 'theme_SHORTNAME';
+$plugin->component = 'theme_PACKAGECODE';
 $plugin->dependencies = [
     'theme_boost' => '2019111800'
 ];

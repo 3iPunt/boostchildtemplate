@@ -17,7 +17,7 @@
 /**
  * Language file.
  *
- * @package   theme_SHORTNAME
+ * @package   theme_PACKAGECODE
  * @copyright  2020 Roser Pruaño Milla <roser@tresipunt.com>
  * @license    http://www.gnu.org/copyleft/gpl.html GNU GPL v3 or later
  */
@@ -25,8 +25,8 @@
 defined('MOODLE_INTERNAL') || die();
 
 // A description shown in the admin theme selector.
-$string['choosereadme'] = 'Theme NAME is a child theme template of Boost.';
+$string['choosereadme'] = 'El tema NAME és un tema fill plantilla de Boost.';
 // The name of our plugin.
 $string['pluginname'] = 'NAME';
 // We need to include a lang string for each block region.
-$string['region-side-pre'] = 'Right';
+$string['region-side-pre'] = 'Dreta';
